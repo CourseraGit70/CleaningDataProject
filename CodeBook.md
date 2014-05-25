@@ -1,5 +1,5 @@
 ##Descriptions of Variables and their values used in run_analysis.R
-****View in raw mode for formatting****
+****View in raw mode for better formatting****
 * tidy data variables by column
 
   Variable                                          Description                        Type
