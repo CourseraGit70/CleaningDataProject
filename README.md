@@ -1,5 +1,6 @@
 ##To succesfully reproduce the tidy data set ensure the following:
 
+* View the instructions in raw form on github
 * R version 3.1.0 on Ubuntu 13.10 with Rstudio should be used. This is the only set up with repeat verification.
 * The reshape2 package is installed and loaded.
 * The data.frame package is installed and loaded.
